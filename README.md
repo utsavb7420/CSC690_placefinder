@@ -3,6 +3,8 @@
 # Fall2020 
 # Name: Mohammedrehan_917542137
 
+Three of us created a map application "PlaceFinder." It is an app where users can search places by category. The users GPS location is used to find the near by locations and google map is used for routing and show the google rating of that destination. 
+
 # Mohammedrehan: I created storyboard and home page for the app. The home page allows user to search places by categories. When developing this, I have used StackViews, Buttons, ImageViews.
 
 # Name: Salah Ali_917542319
